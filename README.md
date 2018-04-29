@@ -17,6 +17,8 @@ In a nutshell, the project is organized in a way that binary source which served
 
 ### Block Diagram
 
+<img width="561" alt="2018-04-29 6 50 35" src="https://user-images.githubusercontent.com/22137277/39411751-89651a92-4bde-11e8-8c26-17a386d337ad.png">
+
 ### Parameter Set
 Parameters involved in the project are displayed as below
 * HammingWindow Length =Window Shift = 30ms (240Samples)(Nonoverlapping frames)
@@ -31,9 +33,14 @@ Parameters involved in the project are displayed as below
 
 ### Block Diagram
 
+<img width="557" alt="2018-04-29 6 55 12" src="https://user-images.githubusercontent.com/22137277/39411752-8ae7a920-4bde-11e8-83f0-f3fb1a55db59.png">
+
 ### Parameter Set
 
 Parameters follow the same value as before, and implemented on 4800bps and 9600 bps.
 
+## Contact
 
+If you have any questions about this solo project, please contact
 
+* jiangyu@bu.edu
